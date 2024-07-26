@@ -17,7 +17,7 @@
 🌱 **Currently Learning**: Advanced server-side development and exploring new cloud technologies to enhance my backend development skills.
 
 📫 **How to reach me**:
-- **LinkedIn**: [Connect with me on LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/ross-learned/))
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ross-learned/)
 - **Email**: [Send me an email](mailto:ross.c.learned@gmail.com)
 
 ⚡ **Fun Fact**: I love walking through NYC with my dog while listening to podcasts on technology and entrepreneurship. Hobbies include Badminton, Leetcode, and vanilla milk...

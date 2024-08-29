@@ -8,7 +8,7 @@
 - **Tools & Technologies**: Git/GitHub, REST APIs, Google Cloud Platform, Docker, Kubernetes, RabbitMQ, MongoDB, Firebase, AWS, Linux, IntelliJ IDEA, Postman, Microsoft Power Apps
 
 🌟 **Projects**:
-- **FreeFly**: A full-stack web application for searching award flight availability. Utilizes Java, Spring Boot, React, Google Cloud Platform, and Seats.aero API. Features real-time search engine, asynchronous processing, and notification alerts via SMS and email.
+- **FreeFly**: A full-stack web application for searching award flight availability. Utilizes Java, Spring Boot, React, Google Cloud Platform, Seats.aero API, and Containerization! Features real-time search engine, asynchronous processing, and notification alerts via SMS and email.
 - **EcoTracker** (Team Lead): A mobile platform empowering consumers to discover sustainable businesses. Built with Java, AWS, and integrated with GitHub Actions for CI/CD, offering personalized recommendations and easy access to eco-friendly spots.
 
 🚀 **Professional Experience**:

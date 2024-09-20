@@ -12,7 +12,7 @@
 - **EcoTracker** (Team Lead): A mobile platform empowering consumers to discover sustainable businesses. Built with Java, AWS, and integrated with GitHub Actions for CI/CD, offering personalized recommendations and easy access to eco-friendly spots.
 
 🚀 **Professional Experience**:
-- **Founder of ZTRAMarketing**: Grew an innovative digital marketing agency, leading projects that amplified brand presence for clients like Bitcoin.com. Developed tools that automated Instagram content scheduling and analytics, significantly boosting engagement and followers.
+- **Founder of ZTRAMedia**: Grew an innovative digital marketing agency, leading projects that amplified brand presence for clients like Bitcoin.com. Developed tools that automated Instagram content scheduling and analytics, significantly boosting engagement and followers.
 
 🌱 **Currently Learning**: Advanced server-side development and exploring new cloud technologies to enhance my backend development skills.
 
